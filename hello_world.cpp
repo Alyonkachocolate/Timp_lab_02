@@ -3,6 +3,6 @@
 int main() {
 	 std::string name; // user name
 	 std::cin >> s; // input user name
-         std::cout << "Hello world "<< name << std::endl; // HELLO
-         return 0;
+   std::cout << "Hello world "<< name << std::endl; // HELLO
+   return 0;
 }
